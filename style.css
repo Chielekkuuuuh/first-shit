@@ -6,3 +6,26 @@ body{
 #mainHeading{ 
     color: rgb(255, 255, 255);
 }
+
+#sideheading{
+    color: rgb(255, 255, 255);
+}
+
+#introtext{
+    width: 471px;
+    float: left;
+}
+
+.reset{
+    clear: both;
+}
+
+#hobbies{
+    width: 380px;
+    float: left;
+    color: rgb(255, 255, 255);
+}
+
+#meme{
+    float: left;
+}
