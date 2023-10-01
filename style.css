@@ -12,8 +12,14 @@ body{
 }
 
 #introtext{
-    width: 471px;
+    width: 450px;
     float: left;
+}
+
+#pfp{
+    float: right;
+    width: 250px;
+    height: 300px;
 }
 
 .reset{
@@ -21,14 +27,40 @@ body{
 }
 
 #hobbies{
-    width: 380px;
-    float: left;
+    width: 420px;
+    float: right;
     color: rgb(255, 255, 255);
 }
 
-#meme{
+#heroShot{
     float: left;
-    
+    width: 300px;
+    height: 250px;
+}
+
+.reset{
+    clear: both;
+}
+
+#discord{
+    float: left;
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+#spotify{
+    float: left;
+    margin: 50px;
+    width: 100px;
+    height: 100px;
+}
+
+#meme{
+    float: right;
+    margin: 150px;
+    width: 300px;
+    height: 300px;
 }
 
 #pageContainer{
